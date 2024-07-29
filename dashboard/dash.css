@@ -1,0 +1,59 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.sideline {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 1rem;
+  margin-right: 4rem;
+}
+
+.line {
+  padding-right: 2rem;
+}
+
+.side {
+  color: black;
+  font-weight: bold;
+}
+
+.left {
+  /* margin: 3rem; */
+  display: flex;
+  gap: 1rem;
+  margin-bottom: 4rem;
+  margin-left: 1rem;
+  margin-top: 1rem;
+}
+
+.together {
+  display: flex;
+}
+
+.format {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.avatar {
+  margin-top: 2rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 13rem;
+}
+
+.format {
+  gap: 14rem;
+  margin-top: 1rem;
+  margin-left: 6rem;
+}
+
+.clean {
+  margin-top: 11rem;
+  margin-left: 6rem;
+}
